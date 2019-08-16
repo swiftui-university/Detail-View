@@ -1,6 +1,6 @@
 # Detail View 
 ### Tutorials to learn to build this project
-*We will create another view that is going to be our Detail View
+*We will create a view that is going to be our Detail View
 which will display detail information to each pokemon in our row ✨*
 
 📖 **Article: [Detail View](https://medium.com/@martinlasek/swiftui-detail-view-44772246fa2a)**
